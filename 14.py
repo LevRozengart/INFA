@@ -1,5 +1,4 @@
 a = 'ds  ad   adsa     d'
-array = []
 def del_space(a):
     a =  a.lower()
     lst_char1 = ''
